@@ -1,0 +1,4 @@
+Sau khoảng hơn 1 tháng học ở trường Chu Văn An, bạn Thụ thấy buồn vì một số bài kiém tra của mình. Bạn đó tính rằng: Nếu được thêm ba điềm 10 và ba điểm 9 nữa thì điểm trung bình của tất cả các bài sẽ là 8. Nếu được thêm một điềm 9 và hai điểm 10 nữa thì điểm trung bình của tất cả các bài là 7,5. Hỏi bạn Thụ đã có tất cả mấy bài kiềm tra?
+5
+
+(IOT1-018)

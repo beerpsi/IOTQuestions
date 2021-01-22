@@ -1,0 +1,18 @@
+VÕ THANH TÚ 25 NGUYEN VIET DUY _
+
+ 
+
+  
+
+Vày Thượng Gia Lạc
+
+15
+
+E y u
+
+(OPI-O01) Thịnh có một bộ sưu tập gồm 120 đồng xu và muốn tặng bạn bè mỗi người một số đồng xu khác nhau từng đôi một. Hỏi Thịnh có thể tặng số đồng xu của mình cho nhiều nhất bao nhiêu bạn?
+
+Đáp án:15 bạn
+
+Nhập Mu trả lời 24
+

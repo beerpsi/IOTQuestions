@@ -1,0 +1,7 @@
+Trén phan tử ADN ctia vi khuan, các gen cấu trúc có lién quan về chức năng thường được phân bố liền nhau thành từng cụm có chung một cơ chế điều hòa được gọi là một operon. Ngoài các gen cấu trúc qui định tổng hợp các enzym tham gia vào các phản ứng phân giải đường lactose, cấu tạo của operon Lac còn bao gồm 2 thành phần nữa. Bạn hãy cho biết đó là 2 thành phần nào?
+Vùng khởi động, vùng vận hành
+
+(RTK1-001)
+
+ 
+

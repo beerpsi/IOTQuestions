@@ -1,0 +1,5 @@
+Thịnh có một bộ sưu tập gồm 120 đồng xu và muốn tặng bạn bè mỗi người một số đồng xu khác nhau từng đôi một. Hỏi Thịnh có thể tặng số đồng xu của mình cho nhiều nhất bao nhiêu bạn?
+15 bạn
+
+(OP1-001)
+

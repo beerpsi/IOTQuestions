@@ -1,0 +1,5 @@
+Nằm sau trong ngôi làng Vilcabamba, c6 một ngôi nhà bằng đá được biết đến với phong tục thắp những cây đuốc xung quanh nhà của người Inca. Mỗi đêm, người dân sẽ thắp lên đúng 12 cây đuốc, sao cho mỗi cây đuốc họ chưa thắp sẽ luôn năm kề với ít nhất một cây đuốc đang cháy. Hỏi xung quanh ngôi nhà ấy có nhiều nhất bao nhiêu cây đuốc?
+56 cây đuốc
+
+(VILBA1-007)
+

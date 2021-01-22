@@ -1,0 +1,4 @@
+Cho 4 mệnh đề đúng: "tất cả các con Dê đều là Cừu”, “chỉ một số con Cửu là Bò”, "không có con Bò nào là Dê", "nếu một con vật không phải Cừu thì nó cũng không phải Bò”. Biết rằng mối quan hệ giữa ba tập hợp các con vật Bò, Dê, Cừu (được thể hiện qua 4 mệnh đề trên) là tương đương với quan hệ của 5 tập hợp trong các tập hợp số: N, Z, Q, I, R, C. Trong 5 tập hợp số được đề cập chắc chắn có (những) tập hợp nào? (Câu trả lời không chứa từ "tập", “tập hợp" hoặc "tập hợp số")
+Tập hợp số vô tỉ (I)
+
+(KNOS1-003)

@@ -1,0 +1,5 @@
+Cấu tạo của hợp âm 3 trưởng gồm 3 nốt kí hiệu là 135, trong đó 1 là âm chủ, từ 1 lên 3 là 2 cung và từ 3 lên 5 là 1,5 cung. Hỏi hợp âm 3 Rê trưởng theo thứ tự gồm các nốt nao?
+Re, Fa#, La
+
+(HTM2-003)
+
